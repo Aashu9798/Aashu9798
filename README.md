@@ -1,6 +1,8 @@
-<div align="center">
+<h1 align="center">## Hey 👋, I'm Aashu Kumar! </h1>
 
-## Hey 👋, I'm Aashu Kumar!
+###
+
+<div align="center">
 
 <a href="https://github.com/Aashu9798" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -47,7 +49,6 @@ I’m a **Mobile App Developer** passionate about building **scalable, secure, a
 
 ### 🚀 Languages and Tools
 <div align="center">
-
 <a href="https://flutter.dev" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="40" /></a>
 <a href="https://dart.dev" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="40" /></a>
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" /></a>
@@ -63,7 +64,7 @@ I’m a **Mobile App Developer** passionate about building **scalable, secure, a
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" /></a>
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-original.svg" alt="GitHub" height="40" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" /></a>
 <a href="https://claude.ai" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/17040724?s=200&v=4" alt="Claude AI" height="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" /></a>
@@ -72,22 +73,36 @@ I’m a **Mobile App Developer** passionate about building **scalable, secure, a
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" /></a>
 <a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS S3" height="40" /></a>
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="Google Cloud" height="40" /></a>
-
 </div>
+
 ---
 
 ## 📊 GitHub Stats
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Aashu9798&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Aashu's GitHub stats" width="100%"/>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashu9798&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" width="100%"/>
-    </td>
-  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Aashu9798&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Aashu's GitHub stats" width="100%"/>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashu9798&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" width="100%"/>
+    </td>
+  </tr>
 </table>
+
+---
+
+### 🏆 Achievements and Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Aashu9798&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aashu9798&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aashu9798/Aashu9798/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aashu9798/Aashu9798/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
