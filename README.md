@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/aashu-shrivastava-6279b7259/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:aashu727400@gmail.com" target="_blank">
+<a href="mailto:aashuraaz727400@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=email style="margin-bottom: 5px;" />
 </a>
 
