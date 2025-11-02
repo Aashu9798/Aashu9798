@@ -244,27 +244,6 @@ Specialization: Mobile App Development & Cloud Systems
 
 ---
 
-## 📫 Let's Connect
-
-<div align="center">
-  
-  **💬 Open for:**
-  - Flutter & mobile app development opportunities
-  - Full-stack app projects (Flutter + Backend)
-  - Real-time systems & performance optimization consulting
-  - Open-source contributions
-  - Technical discussions & collaboration
-  
-  **📧 Reach out via:**
-  
-  [![Email](https://img.shields.io/badge/Email-aashuraaz727400%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:aashuraaz727400@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aashu%20Shrivastava-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aashu-shrivastava-6279b7259/)
-  [![GitHub](https://img.shields.io/badge/GitHub-Aashu9798-black?style=for-the-badge&logo=github)](https://github.com/Aashu9798)
-  
-</div>
-
----
-
 ## 🌟 Let's Connect & Collaborate
 
 <div align="center">
