@@ -1,17 +1,46 @@
-<h1 align="center">
-  <a href="https://github.com/Aashu9798" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Aashu+Kumar+Shrivastava;Flutter+Developer+%7C+Mobile+App+Specialist;Real-time+Systems+%7C+Performance+Optimization" alt="Typing SVG" />
-  </a>
-</h1>
+<div align="center">
+
+# 👋 Hi, I'm Aashu Kumar Shrivastava
+
+## Flutter Developer | Mobile App Specialist | Real-time Systems
+
+### Performance Optimization | Algorithm Design | Firebase Expert
+
+</div>
+
+---
 
 <div align="center">
   
-  [![GitHub](https://img.shields.io/badge/GitHub-Aashu9798-blue?style=for-the-badge&logo=github)](https://github.com/Aashu9798)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aashu%20Shrivastava-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aashu-shrivastava-6279b7259/)
-  [![Gmail](https://img.shields.io/badge/Gmail-aashuraaz727400-red?style=for-the-badge&logo=gmail)](mailto:aashuraaz727400@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=firefox)](https://github.com/Aashu9798)
+  [![GitHub](https://img.shields.io/badge/GitHub-Aashu9798-181717?style=for-the-badge&logo=github)](https://github.com/Aashu9798)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aashu%20Shrivastava-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aashu-shrivastava-6279b7259/)
+  [![Gmail](https://img.shields.io/badge/Gmail-aashuraaz727400-EA4335?style=for-the-badge&logo=gmail)](mailto:aashuraaz727400@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-00D9FF?style=for-the-badge&logo=firefox)](https://github.com/Aashu9798)
   
-  <img src="https://komarev.com/ghpvc/?username=Aashu9798&style=flat-square&color=blue" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Aashu9798&style=flat-square&color=00D9FF" alt="Profile Views" />
+  
+</div>
+
+---
+
+<div align="center">
+  
+  <h3>🚀 Building scalable mobile apps with Flutter | Real-time systems | Clean architecture</h3>
+  
+  <table>
+    <tr>
+      <td><strong>📱 Published Apps</strong></td>
+      <td><strong>⭐ App Rating</strong></td>
+      <td><strong>📊 Daily Users</strong></td>
+      <td><strong>🎯 Experience</strong></td>
+    </tr>
+    <tr>
+      <td>3 Live Apps</td>
+      <td>4.9+ Rating</td>
+      <td>500+ Users</td>
+      <td>10+ Months</td>
+    </tr>
+  </table>
   
 </div>
 
