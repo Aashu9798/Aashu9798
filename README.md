@@ -265,14 +265,74 @@ Specialization: Mobile App Development & Cloud Systems
 
 ---
 
+## 🌟 Let's Connect & Collaborate
+
 <div align="center">
   
-  <h3>⭐ If you find my work interesting, consider giving a star! It means a lot.</h3>
+  ### If you find my work interesting, consider giving a ⭐ star! It means a lot.
   
-  <img src="https://raw.githubusercontent.com/Aashu9798/Aashu9798/output/snake.svg" alt="Snake animation" width="100%"/>
+</div>
+
+<div align="center">
   
-  **Built with ❤️ | Always Innovating | Forever Learning**
+  **Key Achievements:**
+  - 🎯 Published 3 apps on Google Play Store
+  - 📊 4.9+ average app store rating
+  - 👥 500+ daily active users
+  - ⚡ 65% performance optimization improvements
+  - 🛠️ 10+ months production experience
   
-  <sub>Last updated: November 2025</sub>
+</div>
+
+---
+
+## 💡 What I'm Currently Working On
+
+- 🚀 **Orbit v2.0** – Enhanced moderation and real-time features
+- 🧮 **Daily Share** – Completing analytics and FCM notifications
+- 🙏 **Dharmik** – Preparing for App Store launch
+- 📚 **Learning** – Advanced system design and scalability patterns
+
+---
+
+## 🤝 Let's Work Together
+
+<div align="center">
+  
+  **Open to:**
+  - Full-time Flutter development roles
+  - Freelance mobile app projects
+  - Performance optimization consulting
+  - Real-time systems architecture discussions
+  - Open-source contributions
+  - Mentorship and knowledge sharing
+  
+  **Connect with me:**
+  
+  [![Email](https://img.shields.io/badge/📧_Email-aashuraaz727400%40gmail.com-red?style=flat&logo=gmail)](mailto:aashuraaz727400@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Aashu%20Shrivastava-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aashu-shrivastava-6279b7259/)
+  [![GitHub](https://img.shields.io/badge/🐙_GitHub-Aashu9798-black?style=flat&logo=github)](https://github.com/Aashu9798)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ## 📈 GitHub Contribution Graph
+  
+  ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Aashu9798&theme=react-dark&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff006e&area=true&hide_border=true)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  <h3>Built with ❤️ | Always Innovating | Forever Learning</h3>
+  
+  ![Visitors](https://img.shields.io/badge/Visitors-000000?style=flat)
+  
+  <sup>Last updated: November 2025</sup>
   
 </div>
