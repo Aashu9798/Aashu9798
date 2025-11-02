@@ -34,7 +34,7 @@ Hi, I’m Aashu – a mobile app developer passionate about building scalable, s
 | **[Daily Share](https://github.com/Aashu9798/Daily-Share)** | Social content & sharing platform: engage, comment, follow, algorithmic feed, bilingual search, festival content. | Flutter, Firebase (Cloud Functions), Provider | [GitHub](https://github.com/Aashu9798/Daily-Share) |
 | **[Dharmik](https://github.com/ujjawal123ku/Dharmik)** | Spiritual & meditation MVP app: 300+ mantras/aartis, advanced jap counter (hardware volume), bilingual search, collaborative project. | Flutter, Hive, just_audio, volume_controller | [Team GitHub](https://github.com/ujjawal123ku/Dharmik) |
 | **[Vaky App](https://play.google.com/store/apps/details?id=com.vaky.aio)** | Multi-utility productivity app (billing, biodata, resume, doc scan) – full UI/UX overhaul, state management, and in-app purchases. | Flutter, Firebase | [Play Store](https://play.google.com/store/apps/details?id=com.vaky.aio) |
-| **[Medkart E-Commerce/MRE](https://play.google.com/store/search?q=medkart&c=apps)** | Flutter-based e-commerce and retail audit apps used across 100+ stores (attendance, multilingual, inventory, performance optimized). | Flutter, Riverpod, Firebase, PostgreSQL | [App Link](https://play.google.com/store/search?q=medkart&c=apps) |
+| **[Medkart E-Commerce/MRE](https://play.google.com/store/search?q=medkart&c=apps)** | Flutter-based e-commerce and retail audit apps used across 100+ stores (attendance, multilingual, inventory, performance optimized). | Flutter, Riverpod, Firebase, PostgreSQL | [Medkart](https://play.google.com/store/search?q=medkart&c=apps) /  [MRE](https://play.google.com/store/apps/details?id=dev.mkart.mre)|
 
 ---
 
