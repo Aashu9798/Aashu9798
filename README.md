@@ -1,86 +1,254 @@
-<h1 align="center">Hey 👋, I'm Aashu Kumar Shrivastava</h1>
-
-<div align="center">
+<h1 align="center">
   <a href="https://github.com/Aashu9798" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Aashu+Kumar+Shrivastava;Flutter+Developer+%7C+Mobile+App+Specialist;Real-time+Systems+%7C+Performance+Optimization" alt="Typing SVG" />
   </a>
-  <a href="https://www.linkedin.com/in/aashu-shrivastava-6279b7259/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="mailto:aashuraaz727400@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt=email style="margin-bottom: 5px;" />
-  </a>
-</div>
-
----
-
-### 👨‍💻 About Me
-
-Hi, I’m Aashu – a mobile app developer passionate about building scalable, secure, and user-friendly digital products that solve real-world problems.
-
-- 🚀 I lead and collaborate on cross-platform apps using **Flutter, Firebase, Supabase, and Node.js**.
-- ⚡ Focused on clean architecture, real-time systems (chat, notifications), and high-performance optimization.
-- ☁️ Experience designing in-app purchases, integrating REST APIs, and ensuring robust UI/UX.
-- 🏢 Ex-Medkart Pharmacy (Flutter Intern, e-commerce & retail systems), current at MindTruf (Vaky app) and G-Initiations (Orbit app).
-- 💬 Always ready to learn and contribute to new, impactful app projects.
-
----
-
-### 🌟 Featured Projects
-
-| Project | Description | Tech | Links |
-| :--- | :--- | :--- | :--- |
-| **[Orbit](https://play.google.com/store/apps/details?id=com.ginit.orbit)** | Anonymous group chat and social app (Android) with instant messaging, private feed, advanced moderation, and real-time notifications. | Flutter, Firebase, Supabase, Node.js | [GitHub](https://github.com/Aashu9798/Orbit) / [Play Store](https://play.google.com/store/apps/details?id=com.ginit.orbit) |
-| **[Daily Share](https://github.com/Aashu9798/Daily-Share)** | Social content & sharing platform: engage, comment, follow, algorithmic feed, bilingual search, festival content. | Flutter, Firebase (Cloud Functions), Provider | [GitHub](https://github.com/Aashu9798/Daily-Share) |
-| **[Dharmik](https://github.com/ujjawal123ku/Dharmik)** | Spiritual & meditation MVP app: 300+ mantras/aartis, advanced jap counter (hardware volume), bilingual search, collaborative project. | Flutter, Hive, just_audio, volume_controller | [Team GitHub](https://github.com/ujjawal123ku/JapaCounter) |
-| **[Vaky App](https://play.google.com/store/apps/details?id=com.vaky.aio)** | Multi-utility productivity app (billing, biodata, resume, doc scan) – full UI/UX overhaul, state management, and in-app purchases. | Flutter, Firebase | [Play Store](https://play.google.com/store/apps/details?id=com.vaky.aio) |
-| **[Medkart E-Commerce/MRE](https://play.google.com/store/search?q=medkart&c=apps)** | Flutter-based e-commerce and retail audit apps used across 100+ stores (attendance, multilingual, inventory, performance optimized). | Flutter, Riverpod, Firebase, PostgreSQL | [Medkart](https://play.google.com/store/search?q=medkart&c=apps) /  [MRE](https://play.google.com/store/apps/details?id=dev.mkart.mre)|
-
----
-
-### 🚀 Skills & Tools
+</h1>
 
 <div align="center">
-  <a href="https://flutter.dev" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="35" /></a>
-  <a href="https://dart.dev" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="35" /></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="35" /></a>
-  <a href="https://supabase.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" alt="Supabase" height="35" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="35" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="35" /></a>
-  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="35" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" /></a>
-  <a href="https://docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="35" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="35" /></a>
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-Aashu9798-blue?style=for-the-badge&logo=github)](https://github.com/Aashu9798)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aashu%20Shrivastava-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aashu-shrivastava-6279b7259/)
+  [![Gmail](https://img.shields.io/badge/Gmail-aashuraaz727400-red?style=for-the-badge&logo=gmail)](mailto:aashuraaz727400@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=firefox)](https://github.com/Aashu9798)
+  
+  <img src="https://komarev.com/ghpvc/?username=Aashu9798&style=flat-square&color=blue" alt="Views" />
+  
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 🎯 Professional Summary
+
+Mobile app developer with **10+ months of production experience** building scalable, secure, and user-friendly applications. Proven expertise in **Flutter, Firebase, Supabase, and Node.js**. Successfully published **Orbit app on Google Play Store** (100+ downloads, 4.9+ rating). Specialized in **real-time systems, performance optimization (65% rebuild reduction), and algorithm design**. Passionate about clean architecture and delivering high-impact products.
+
+---
+
+## 💼 Core Competencies
+
+| Category | Skills |
+|----------|--------|
+| **Languages** | Dart, JavaScript/TypeScript, Python, Java, C++ |
+| **Mobile Development** | Flutter, State Management (Provider, Riverpod, GetX), Responsive Design |
+| **Backend & Real-time** | Node.js (Express), Firebase (Auth, Firestore, Cloud Functions, FCM), Supabase, TypeScript |
+| **Databases** | PostgreSQL, MongoDB, Firebase Firestore, MySQL |
+| **Performance** | Code Optimization, Caching Strategies, Pagination, Lazy Loading, API Optimization |
+| **Architecture** | MVVM, Clean Architecture, Microservices, Real-time Sync, Algorithm Design |
+| **DevOps & Tools** | Git, GitHub, Docker, Cloud Functions, MSIX, Figma, Android Studio, VS Code |
+| **Specializations** | Real-time Systems, Algorithm Design, In-App Purchases, Content Moderation |
+
+---
+
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Aashu9798&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Aashu's GitHub stats" width="100%"/>
+      
+### 🔐 Orbit – Anonymous Chat & Social App
+**Published** • 100+ downloads • 4.9+ rating
+
+Anonymous group communication platform with real-time messaging, private feeds, and advanced moderation.
+
+**Impact:** Launched with 100+ day-one downloads
+
+**Tech Stack:**
+- Flutter, Firebase, Supabase, Node.js
+- TypeScript Cloud Functions, FCM Notifications
+- Provider State Management
+
+**Links:** [GitHub](https://github.com/Aashu9798/Orbit) | [Play Store](https://play.google.com/store/apps/details?id=com.ginit.orbit)
+
+---
+
+### 🧮 Daily Share – Algorithm-Driven Social Feed
+**In Development** • MVP Complete
+
+Social platform with custom engagement-based ranking algorithm (likes × 1.0, comments × 2.0, shares × 3.0). Bilingual search, trending posts, festival templates.
+
+**Key Feature:** Custom scoring algorithm for content discovery
+
+**Tech Stack:**
+- Flutter, Firebase (Firestore, Cloud Functions)
+- Algorithm Design & Optimization, Provider
+- Bilingual Indexing
+
+**Link:** [GitHub](https://github.com/Aashu9798/Daily-Share)
+
     </td>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashu9798&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" width="100%"/>
+
+### 🙏 Dharmik – Spiritual & Meditation App
+**MVP Ready** • 300+ Mantras • Collaborative
+
+Offline-first meditation companion with hardware volume button integration, 300-3,000+ mantras/aartis, bilingual search.
+
+**Innovation:** Hardware volume buttons for interrupt-free meditation
+
+**Tech Stack:**
+- Flutter, Hive, just_audio, volume_controller
+- Bilingual Indexing, Local Persistence
+- Offline-First Architecture
+
+**Link:** [Team GitHub](https://github.com/ujjawal123ku/Dharmik)
+
+---
+
+### 📱 Vaky App – Multi-Utility Productivity Suite
+**Published** • Performance Optimized
+
+Biodata, bills, resumes, translation, document scanning with in-app purchases and 60fps optimization.
+
+**Achievement:** 65% reduction in rebuild cycles
+
+**Tech Stack:**
+- Flutter, Firebase, In-App Purchases
+- Provider State Management
+
+**Link:** [Play Store](https://play.google.com/store/apps/details?id=com.vaky.aio)
+
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+
+### 🏢 Medkart E-Commerce & MRE (Retail Ops)
+**Production Live** • 500+ daily transactions • 100+ stores
+
+Flutter-based e-commerce and inventory audit apps serving major retail chain. Inventory module reduced errors by 60%, geofenced attendance, multilingual support.
+
+**Metrics:** 500+ daily users, 60% error reduction, 40% API optimization, 30% data savings
+
+**Tech Stack:** Flutter, Riverpod, Firebase, PostgreSQL, REST APIs
+
+**Links:** [E-Commerce](https://play.google.com/store/search?q=medkart&c=apps) | [MRE](https://play.google.com/store/apps/details?id=dev.mkart.mre)
+
     </td>
   </tr>
 </table>
 
 ---
 
-### 🏆 Achievements and Activity
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Aashu9798&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Aashu9798&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+  
+  <h3>🔧 Frontend & Mobile</h3>
+  <a href="https://flutter.dev" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="40" /></a>
+  <a href="https://dart.dev" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="40" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></a>
+  
+  <h3>☁️ Backend & Cloud</h3>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" /></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" alt="Supabase" height="40" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" /></a>
+  
+  <h3>💾 Databases & Storage</h3>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" /></a>
+  
+  <h3>🛠️ Tools & DevOps</h3>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>
+  <a href="https://docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" /></a>
+  
 </div>
 
 ---
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Aashu9798&&style=flat-square)
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Aashu9798&show_icons=true&count_private=true&hide_border=true&theme=nord&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=8b949e&border_color=30363d" alt="GitHub Stats" width="100%"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashu9798&layout=compact&hide_border=true&theme=nord&bg_color=0d1117&title_color=00d9ff&text_color=8b949e&border_color=30363d" alt="Top Languages" width="100%"/>
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 ---
 
-<div align="center">✨ <b>Always building. Always learning.</b> ✨</div>
+## 🏆 Achievements & Highlights
+
+<div align="center">
+  
+  ![Streak](https://streak-stats.demolab.com?user=Aashu9798&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5)
+  
+</div>
+
+<div align="center">
+  
+  **📈 Key Metrics:**
+  - 100+ day-one downloads for Orbit app
+  - 4.9+ app store rating (user satisfaction)
+  - 65% reduction in widget rebuild cycles
+  - 40% API response time optimization
+  - 60% error reduction in inventory systems
+  - 500+ daily active users across production apps
+  
+</div>
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering in Computer Science**  
+Marwadi University • Aug 2021 - May 2025  
+Specialization: Mobile App Development & Cloud Systems
+
+---
+
+## 💡 My Development Philosophy
+
+> **Build with impact.** Every app I create focuses on solving real problems with clean code, intuitive design, and robust architecture. Whether it's real-time chat systems, algorithm-driven feeds, or performance optimization—I aim for excellence.
+
+### Core Principles:
+- 🔧 **Clean Architecture:** MVVM, separation of concerns, maintainability
+- ⚡ **Performance First:** Optimize before premature optimization becomes a problem
+- 🛡️ **Security Matters:** Data protection, encryption, secure auth flows
+- 👥 **User-Centric:** Accessible UI, offline-first when needed, zero unnecessary bloat
+- 📚 **Continuous Learning:** New frameworks, best practices, industry standards
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+  
+  **💬 Open for:**
+  - Flutter & mobile app development opportunities
+  - Full-stack app projects (Flutter + Backend)
+  - Real-time systems & performance optimization consulting
+  - Open-source contributions
+  - Technical discussions & collaboration
+  
+  **📧 Reach out via:**
+  
+  [![Email](https://img.shields.io/badge/Email-aashuraaz727400%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:aashuraaz727400@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aashu%20Shrivastava-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aashu-shrivastava-6279b7259/)
+  [![GitHub](https://img.shields.io/badge/GitHub-Aashu9798-black?style=for-the-badge&logo=github)](https://github.com/Aashu9798)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  <h3>⭐ If you find my work interesting, consider giving a star! It means a lot.</h3>
+  
+  <img src="https://raw.githubusercontent.com/Aashu9798/Aashu9798/output/snake.svg" alt="Snake animation" width="100%"/>
+  
+  **Built with ❤️ | Always Innovating | Forever Learning**
+  
+  <sub>Last updated: November 2025</sub>
+  
+</div>
