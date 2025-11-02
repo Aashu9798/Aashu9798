@@ -74,8 +74,6 @@ Social platform with custom engagement-based ranking algorithm (likes × 1.0, co
 
 **Link:** [GitHub](https://github.com/Aashu9798/Daily-Share)
 
-    </td>
-    <td width="50%" valign="top">
 
 ### 🙏 Dharmik – Spiritual & Meditation App
 **MVP Ready** • 300+ Mantras • Collaborative
@@ -89,7 +87,7 @@ Offline-first meditation companion with hardware volume button integration, 300-
 - Bilingual Indexing, Local Persistence
 - Offline-First Architecture
 
-**Link:** [Team GitHub](https://github.com/ujjawal123ku/Dharmik)
+**Link:** [Team GitHub](https://github.com/ujjawal123ku/JapaCounter)
 
 ---
 
@@ -106,7 +104,6 @@ Biodata, bills, resumes, translation, document scanning with in-app purchases an
 
 **Link:** [Play Store](https://play.google.com/store/apps/details?id=com.vaky.aio)
 
-    </td>
   </tr>
 </table>
 
@@ -125,7 +122,6 @@ Flutter-based e-commerce and inventory audit apps serving major retail chain. In
 
 **Links:** [E-Commerce](https://play.google.com/store/search?q=medkart&c=apps) | [MRE](https://play.google.com/store/apps/details?id=dev.mkart.mre)
 
-    </td>
   </tr>
 </table>
 
