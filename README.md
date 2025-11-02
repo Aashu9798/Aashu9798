@@ -15,7 +15,6 @@
   [![GitHub](https://img.shields.io/badge/GitHub-Aashu9798-181717?style=for-the-badge&logo=github)](https://github.com/Aashu9798)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aashu%20Shrivastava-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aashu-shrivastava-6279b7259/)
   [![Gmail](https://img.shields.io/badge/Gmail-aashuraaz727400-EA4335?style=for-the-badge&logo=gmail)](mailto:aashuraaz727400@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-00D9FF?style=for-the-badge&logo=firefox)](https://github.com/Aashu9798)
   
   <img src="https://komarev.com/ghpvc/?username=Aashu9798&style=flat-square&color=00D9FF" alt="Profile Views" />
   
